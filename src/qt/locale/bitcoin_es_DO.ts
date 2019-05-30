@@ -1115,7 +1115,7 @@
 </translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Núcleo de Bitcoin</translation>
     </message>
     <message>

@@ -660,7 +660,7 @@
         <translation>Opciones:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>nucleo Bitcoin</translation>
     </message>
     <message>

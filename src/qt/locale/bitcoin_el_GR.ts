@@ -1794,8 +1794,8 @@
         <translation>Εκτέλεση στο παρασκήνιο και αποδοχή εντολών</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>ShrimpTempura Core</source>
+        <translation>ShrimpTempura Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

@@ -1411,7 +1411,7 @@
         <translation>JSON-RPC komutları ile komut satırını onaylayın</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>

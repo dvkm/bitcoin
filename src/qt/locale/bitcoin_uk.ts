@@ -3156,8 +3156,8 @@
         <translation>Неможливо запустити HTTP-сервер. Детальніший опис наведено в журналі зневадження.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>ShrimpTempura Core</source>
+        <translation>ShrimpTempura Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

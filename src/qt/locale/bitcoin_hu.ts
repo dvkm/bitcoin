@@ -2915,8 +2915,8 @@ Kérem a kulcsmondatban használjon &lt;b&gt; tíz vagy több véletlenszerű ka
 </translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>ShrimpTempura Core</source>
+        <translation>ShrimpTempura Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

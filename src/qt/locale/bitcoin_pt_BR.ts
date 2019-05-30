@@ -3162,8 +3162,8 @@
         <translation>Não foi possível iniciar o servidor HTTP. Veja o log de depuração para detaihes.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>ShrimpTempura Core</source>
+        <translation>ShrimpTempura Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

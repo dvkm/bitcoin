@@ -806,7 +806,7 @@ void SendCoinsDialog::coinControlChangeEdited(const QString& text)
         }
         else if (!IsValidDestination(dest)) // Invalid address
         {
-            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid TempuraCoin address"));
+            ui->labelCoinControlChangeLabel->setText(tr("Warning: Invalid ShrimpTempura address"));
         }
         else // Valid address
         {

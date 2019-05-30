@@ -772,7 +772,7 @@
         <translation>Operare infere sicut daemon et mandata accipe</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Bitcoin Nucleus</translation>
     </message>
     <message>

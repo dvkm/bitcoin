@@ -1890,7 +1890,7 @@
         <translation>Ruli fone kiel demono kaj akcepti komandojn</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>

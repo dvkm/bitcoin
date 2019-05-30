@@ -2626,7 +2626,7 @@
         <translation>Parancssoros és JSON-RPC parancsok elfogadása</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Bitcoin Mag</translation>
     </message>
     <message>

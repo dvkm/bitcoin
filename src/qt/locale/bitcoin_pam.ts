@@ -756,7 +756,7 @@
         <translation>Gumana king gulut bilang daemon at tumanggap commands</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Kapilubluban ning Bitcoin</translation>
     </message>
     <message>

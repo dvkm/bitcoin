@@ -590,7 +590,7 @@
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>

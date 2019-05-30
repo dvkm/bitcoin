@@ -1042,7 +1042,7 @@
         <translation>Opsiynau:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Craidd Bitcoin</translation>
     </message>
     <message>

@@ -808,7 +808,7 @@
         <translation>Opsionet:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>

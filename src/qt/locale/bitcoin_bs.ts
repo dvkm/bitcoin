@@ -160,7 +160,7 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation>Bitcoin Jezrga</translation>
     </message>
     </context>

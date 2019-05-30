@@ -4101,7 +4101,7 @@
     </message>
     <message>
         <location line="-395"/>
-        <source>Bitcoin Core</source>
+        <source>ShrimpTempura Core</source>
         <translation type="unfinished">Bitcoin Core</translation>
     </message>
     <message>
