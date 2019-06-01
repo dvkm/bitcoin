@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"kim.vid.ShrimpTempura-Qt";
+        return @"org.shrimptempura.Tempura-Qt";
     } else {
         return [self __bundleIdentifier];
     }
